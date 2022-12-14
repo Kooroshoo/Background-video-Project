@@ -1,7 +1,5 @@
 # Background-video-Project
- Website with Background video and animated loading screen created using HTML, CSS, JavaScript. 
- 
- ([Link to Demo](https://kooroshoo.github.io/Background-video-Project/))
+ Website with Background video and animated loading screen created using HTML, CSS, JavaScript. ([Link to Demo](https://kooroshoo.github.io/Background-video-Project/))
 
 ![Background-video-Project](https://user-images.githubusercontent.com/26629624/207654421-b6b5d46f-a3fe-41f2-90bc-dab7ea017792.gif)
 
